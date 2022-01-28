@@ -1,0 +1,20 @@
+.first-section {
+    background-image: url(../../imgs/Banner\ \(1\).png);
+    height: 797px;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first-section .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 630px;
+    padding-top: 115px;
+    padding-left: 90px;
+}
+.first-section .wrapper-buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}

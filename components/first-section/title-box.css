@@ -1,0 +1,22 @@
+.title-box {
+    display: inline-block;
+    background-color: #3A4042;
+    box-shadow: 10px 10px 0 #000;
+    text-align: center;
+    padding: 40px 40px;
+}
+
+.title-box .title {
+    font-family: var(--game-font);
+    color: var(--main-pink);
+    font-size: 40px;
+    text-shadow: 4px 4px 0px #000;
+    padding-bottom: 30px;
+}
+
+.title-box .subtitle {
+    font-family: var(--game-font);
+    color: white;
+    font-size: 30px;
+    text-shadow: 4px 4px 0px #000;
+}
