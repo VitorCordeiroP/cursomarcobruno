@@ -12,3 +12,8 @@
     text-decoration: none;
     font-size: 20px;
 }
+
+.button:hover {
+    background-color: #f57d8f;
+    transform: scale(1.1);
+}
