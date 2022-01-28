@@ -1,0 +1,9 @@
+.header {
+    background-color: var(--main-purple);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    height: 60px;
+    box-shadow: 0px 10px 0px #000000;
+}
